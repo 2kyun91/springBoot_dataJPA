@@ -59,4 +59,5 @@ public class Board {
 	
 	@UpdateTimestamp
 	public Timestamp updatedate;
+	
 }
