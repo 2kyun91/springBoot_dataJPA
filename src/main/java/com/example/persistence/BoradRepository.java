@@ -2,7 +2,7 @@ package com.example.persistence;
 
 import org.springframework.data.repository.CrudRepository;
 
-import com.example.dao.Board;
+import com.example.dto.Board;
 
 /*
  * Repository 인터페이스는(==BoradRepository) <T, ID> 두개의 재네릭 타입을 사용하는데
